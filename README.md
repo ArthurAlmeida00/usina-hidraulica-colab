@@ -18,4 +18,4 @@ O estudo é baseado em dados da ANA, onde é retirado a planilha do site e coloc
 - **GitHub** para versionamento e publicação
 
 ## ▶️ Executar no Google Colab
-Clique abaixo para abrir e rodar o notebook diretamente no Colab:
+Pode baixar o arquivo e rodar em um arquivo novo no google colab ou retirar os códigos que estão em python e rodar puro
